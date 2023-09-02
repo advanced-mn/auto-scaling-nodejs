@@ -1,0 +1,8 @@
+{
+    "name": "auto-scaling-nodejs",
+    "version": "1.0",
+    "author": "mostafa",
+    "dependencies": {
+        "express": "4.18.2"
+    }
+}
